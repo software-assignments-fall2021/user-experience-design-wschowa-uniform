@@ -1,8 +1,5 @@
-## User Experience Design
+# User Experience Design
 
-This repository contains instructions and files for two assignments that together comprise the user experience design phase of a web app.
+## Prototype
 
-Replace the contents of this file with the completed assignments, as described in:
-
-- [app map and wireframe instructions](./instructions-app-map-wireframe.md).
-- [prototype instructions](./instructions-prototype.md)
+You can view the [prototype](ux-design/prototype) or view the actual prototype following this [link]()
