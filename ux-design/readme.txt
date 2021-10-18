@@ -1,3 +1,2 @@
-The source files and exported PNG files of the app map and wireframe diagrams should reside in this directory.
+Prototype Link: https://invis.io/FD11VQOSHSK5
 
-Your completed prototype will reside within the 'prototype' subdirectory.
